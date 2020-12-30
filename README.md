@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Objetivo da aplicação
+Poder alterar e visualizar os dados da base de dados de maneira mais eficaz.
 
 ## Available Scripts
 
