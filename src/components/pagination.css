@@ -1,0 +1,11 @@
+.table_pagination{
+    width: 50%; 
+    margin-left: 25%
+}
+
+@media (max-width: 900px){
+    .table_pagination{
+        width: 100%; 
+        margin-left: 0%;
+    }
+}

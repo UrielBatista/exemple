@@ -1,0 +1,26 @@
+.nomesPersonagens{
+    cursor: pointer;
+  }
+
+.pessoas_base h1 {
+    color: aliceblue;
+}
+.pessoas_base h4 {
+    color: aliceblue;
+}
+.nomesPersonagens p {
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgb(225, 225, 225);
+    transition-duration: 0.6s;
+    
+}
+.nomesPersonagens p:hover {
+    width: 56%;
+    margin-left: 22%;
+}
+
+.button_delete{
+    margin-left: -60%;
+    margin-bottom: -120px;
+}
